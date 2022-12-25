@@ -1,2 +1,2 @@
 # customFW
-A custom framework
+A custom framework with MVC standard
